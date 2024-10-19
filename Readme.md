@@ -1,4 +1,4 @@
-![Login and Sign-Up Flow](../AUTH%20APP/Images/Auth.jpg)
+![Login and Sign-Up Flow](./Images/Auth.jpg)
 
 # Authentication and Authorization in MERN Stack
 
@@ -87,7 +87,7 @@ This guide explores how authentication (login/signup) and authorization (role-ba
 
 ## 6. Login and Sign-Up Flow Diagram
 
-![Login and Sign-Up Flow](../AUTH%20APP/Images/loginSignUpLogout.png)
+![Login and Sign-Up Flow](./Images/loginSignUpLogout.png)
 
 **Explanation:**
 
