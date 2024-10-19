@@ -120,7 +120,7 @@ Protected routes ensure that only authenticated users can access certain parts o
 
 ### Diagram of Route Protection:
 
-![Protected Routes Flow](https://www.bezkoder.com/wp-content/uploads/2021/07/react-login-logout-jwt-protected-route-flow.png)
+![Protected Routes Flow](./Images/reactRoute.png)
 
 ---
 
